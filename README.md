@@ -1,1 +1,1 @@
-# posgres-example
+# postgresql-example
